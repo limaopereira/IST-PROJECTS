@@ -4,3 +4,6 @@
 [submodule "3ANO/CGRA/E2/CG_E2"]
 	path = 3ANO/CGRA/E2/CG_E2
 	url = https://github.com/limaopereira/CG_E2.git
+[submodule "3ANO/CGRA/E3/CG_E3"]
+	path = 3ANO/CGRA/E3/CG_E3
+	url = https://github.com/limaopereira/CG_E3.git
