@@ -1,3 +1,6 @@
 [submodule "2ANO/IART/takuzu"]
 	path = 2ANO/IART/takuzu
 	url = https://github.com/limaopereira/takuzu.git
+[submodule "3ANO/CGRA/E2/CG_E2"]
+	path = 3ANO/CGRA/E2/CG_E2
+	url = https://github.com/limaopereira/CG_E2.git
