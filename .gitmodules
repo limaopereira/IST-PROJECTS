@@ -10,3 +10,6 @@
 [submodule "3ANO/SDIS/A24-DistLedger"]
 	path = 3ANO/SDIS/A24-DistLedger
 	url = https://github.com/limaopereira/A24-DistLedger.git
+[submodule "3ANO/RC/rc_word_game"]
+	path = 3ANO/RC/rc_word_game
+	url = https://github.com/limaopereira/rc_word_game.git
