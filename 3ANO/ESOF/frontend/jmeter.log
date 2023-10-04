@@ -1,0 +1,105 @@
+2023-04-14 17:16:40,598 INFO o.a.j.u.JMeterUtils: Setting Locale to pt_PT
+2023-04-14 17:16:40,616 ERROR o.a.j.u.JMeterUtils: Could not find resources for 'pt_PT'
+2023-04-14 17:16:40,617 INFO o.a.j.JMeter: Loading user properties from: /home/manuel/Transferências/apache-jmeter-5.5/bin/user.properties
+2023-04-14 17:16:40,617 INFO o.a.j.JMeter: Loading system properties from: /home/manuel/Transferências/apache-jmeter-5.5/bin/system.properties
+2023-04-14 17:16:40,623 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2023-04-14 17:16:40,623 INFO o.a.j.JMeter: Version 5.5
+2023-04-14 17:16:40,623 INFO o.a.j.JMeter: java.version=17.0.6
+2023-04-14 17:16:40,623 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2023-04-14 17:16:40,623 INFO o.a.j.JMeter: os.name=Linux
+2023-04-14 17:16:40,623 INFO o.a.j.JMeter: os.arch=amd64
+2023-04-14 17:16:40,624 INFO o.a.j.JMeter: os.version=5.15.0-69-generic
+2023-04-14 17:16:40,624 INFO o.a.j.JMeter: file.encoding=UTF-8
+2023-04-14 17:16:40,624 INFO o.a.j.JMeter: java.awt.headless=null
+2023-04-14 17:16:40,624 INFO o.a.j.JMeter: Max memory     =1916796928
+2023-04-14 17:16:40,624 INFO o.a.j.JMeter: Available Processors =12
+2023-04-14 17:16:40,632 INFO o.a.j.JMeter: Default Locale=português (Portugal)
+2023-04-14 17:16:40,632 INFO o.a.j.JMeter: JMeter  Locale=português (Portugal)
+2023-04-14 17:16:40,633 INFO o.a.j.JMeter: JMeterHome=/home/manuel/Transferências/apache-jmeter-5.5
+2023-04-14 17:16:40,633 INFO o.a.j.JMeter: user.dir  =/home/manuel/Documentos/LEIC-A/3ANO/ESOF/es23-46/frontend
+2023-04-14 17:16:40,633 INFO o.a.j.JMeter: PWD       =/home/manuel/Documentos/LEIC-A/3ANO/ESOF/es23-46/frontend
+2023-04-14 17:16:40,633 INFO o.a.j.JMeter: IP: 127.0.1.1 Name: ManueLegion FullName: ManueLegion
+2023-04-14 17:16:40,643 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-04-14 17:16:40,838 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2023-04-14 17:17:02,676 INFO o.a.j.s.FileServer: Default base='/home/manuel/Documentos/LEIC-A/3ANO/ESOF/es23-46/frontend'
+2023-04-14 17:17:02,680 INFO o.a.j.g.a.Load: Loading file: /home/manuel/Documentos/LEIC-A/3ANO/ESOF/es23-46/backend/jmeter/teacherdashboard/getTeacherDashboard.jmx
+2023-04-14 17:17:02,680 INFO o.a.j.s.FileServer: Set new base='/home/manuel/Documentos/LEIC-A/3ANO/ESOF/es23-46/backend/jmeter/teacherdashboard'
+2023-04-14 17:17:02,830 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-04-14 17:17:02,851 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-04-14 17:17:02,853 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-04-14 17:17:02,854 INFO o.a.j.s.SaveService: Loading file: /home/manuel/Documentos/LEIC-A/3ANO/ESOF/es23-46/backend/jmeter/teacherdashboard/getTeacherDashboard.jmx
+2023-04-14 17:17:02,875 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-04-14 17:17:02,875 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-04-14 17:17:02,875 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-04-14 17:17:02,875 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-04-14 17:17:02,875 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-04-14 17:17:02,875 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-04-14 17:17:03,073 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-04-14 17:17:03,073 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2023-04-14 17:17:03,073 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-04-14 17:17:03,073 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-04-14 17:17:03,211 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2023-04-14 17:17:03,296 INFO o.a.j.s.FileServer: Set new base='/home/manuel/Documentos/LEIC-A/3ANO/ESOF/es23-46/backend/jmeter/teacherdashboard'
+2023-04-14 17:17:05,090 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-04-14 17:17:05,091 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-04-14 17:17:05,091 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-04-14 17:17:05,093 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2023-04-14 17:17:05,094 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2023-04-14 17:17:05,124 ERROR o.a.j.u.BeanShellInterpreter: Error invoking bsh method: eval	In file: inline evaluation of: ``import org.apache.jmeter.services.FileServer fileserver.getFileServer().getBaseD . . . '' Encountered "fileserver" at line 1, column 46.
+
+2023-04-14 17:17:05,125 WARN o.a.j.f.BeanShell: Error running BSH script
+org.apache.jorphan.util.JMeterException: Error invoking bsh method: eval	In file: inline evaluation of: ``import org.apache.jmeter.services.FileServer fileserver.getFileServer().getBaseD . . . '' Encountered "fileserver" at line 1, column 46.
+
+	at org.apache.jmeter.util.BeanShellInterpreter.bshInvoke(BeanShellInterpreter.java:179) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.util.BeanShellInterpreter.eval(BeanShellInterpreter.java:185) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.functions.BeanShell.execute(BeanShell.java:99) ~[ApacheJMeter_functions.jar:5.5]
+	at org.apache.jmeter.engine.util.CompoundVariable.execute(CompoundVariable.java:138) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.engine.util.CompoundVariable.execute(CompoundVariable.java:113) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.testelement.property.FunctionProperty.getStringValue(FunctionProperty.java:91) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.testelement.AbstractTestElement.getPropertyAsString(AbstractTestElement.java:280) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.config.Argument.getValue(Argument.java:145) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.config.Arguments.getArgumentsAsMap(Arguments.java:93) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.engine.PreCompiler.createArgumentsMap(PreCompiler.java:113) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.engine.PreCompiler.addNode(PreCompiler.java:100) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jorphan.collections.HashTree.traverseInto(HashTree.java:993) ~[jorphan.jar:5.5]
+	at org.apache.jorphan.collections.HashTree.traverse(HashTree.java:976) ~[jorphan.jar:5.5]
+	at org.apache.jmeter.engine.StandardJMeterEngine.run(StandardJMeterEngine.java:377) ~[ApacheJMeter_core.jar:5.5]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.apache.jmeter.util.BeanShellInterpreter.bshInvoke(BeanShellInterpreter.java:162) ~[ApacheJMeter_core.jar:5.5]
+	... 14 more
+Caused by: bsh.ParseException: In file: inline evaluation of: ``import org.apache.jmeter.services.FileServer fileserver.getFileServer().getBaseD . . . '' Encountered "fileserver" at line 1, column 46.
+
+	at bsh.Parser.generateParseException(Parser.java:6106) ~[bsh-2.0b6.jar:2.0b6 2016-02-05 05:16:19]
+	at bsh.Parser.jj_consume_token(Parser.java:5977) ~[bsh-2.0b6.jar:2.0b6 2016-02-05 05:16:19]
+	at bsh.Parser.ImportDeclaration(Parser.java:480) ~[bsh-2.0b6.jar:2.0b6 2016-02-05 05:16:19]
+	at bsh.Parser.BlockStatement(Parser.java:2823) ~[bsh-2.0b6.jar:2.0b6 2016-02-05 05:16:19]
+	at bsh.Parser.Line(Parser.java:172) ~[bsh-2.0b6.jar:2.0b6 2016-02-05 05:16:19]
+	at bsh.Interpreter.Line(Interpreter.java:1011) ~[bsh-2.0b6.jar:2.0b6 2016-02-05 05:16:19]
+	at bsh.Interpreter.eval(Interpreter.java:641) ~[bsh-2.0b6.jar:2.0b6 2016-02-05 05:16:19]
+	at bsh.Interpreter.eval(Interpreter.java:750) ~[bsh-2.0b6.jar:2.0b6 2016-02-05 05:16:19]
+	at bsh.Interpreter.eval(Interpreter.java:739) ~[bsh-2.0b6.jar:2.0b6 2016-02-05 05:16:19]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.apache.jmeter.util.BeanShellInterpreter.bshInvoke(BeanShellInterpreter.java:162) ~[ApacheJMeter_core.jar:5.5]
+	... 14 more
+2023-04-14 17:17:05,134 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-04-14 17:17:05,166 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Teacher Requests
+2023-04-14 17:17:05,166 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Teacher Requests.
+2023-04-14 17:17:05,167 INFO o.a.j.e.StandardJMeterEngine: Test will stop abruptly on error
+2023-04-14 17:17:05,167 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-04-14 17:17:05,179 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-04-14 17:17:05,179 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-04-14 17:17:05,180 INFO o.a.j.t.JMeterThread: Thread started: Teacher Requests 1-1
+2023-04-14 17:17:05,191 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = ManueLegion
+2023-04-14 17:17:05,201 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2023-04-14 17:17:15,077 INFO o.a.j.t.JMeterThread: Thread is done: Teacher Requests 1-1
+2023-04-14 17:17:15,077 INFO o.a.j.t.JMeterThread: Thread finished: Teacher Requests 1-1
+2023-04-14 17:17:15,078 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-04-14 17:17:15,079 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
