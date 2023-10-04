@@ -13,3 +13,6 @@
 [submodule "3ANO/RC/rc_word_game"]
 	path = 3ANO/RC/rc_word_game
 	url = https://github.com/limaopereira/rc_word_game.git
+[submodule "3ANO/ESOF/es23-46"]
+	path = 3ANO/ESOF/es23-46
+	url = https://gitlab.rnl.tecnico.ulisboa.pt/es/es23-46.git
