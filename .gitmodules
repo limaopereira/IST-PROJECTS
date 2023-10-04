@@ -7,3 +7,6 @@
 [submodule "3ANO/CGRA/E3/CG_E3"]
 	path = 3ANO/CGRA/E3/CG_E3
 	url = https://github.com/limaopereira/CG_E3.git
+[submodule "3ANO/SDIS/A24-DistLedger"]
+	path = 3ANO/SDIS/A24-DistLedger
+	url = https://github.com/limaopereira/A24-DistLedger.git
