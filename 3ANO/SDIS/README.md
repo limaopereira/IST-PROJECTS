@@ -1,6 +1,10 @@
-# DistLedger
+# DS - Project
 
-Distributed Systems Project 2022/2023
+The project in DS class (Distributed Systems) aimed to develop the DistLedger system, a service that implements a distributed ledger supporting exchanges of a digital currency. The service is provided by one or more servers through remote procedure calls.
+
+The project, implemented in Java, served as an exploration of essential Distributed Systems concepts, including distributed remote procedure calls (RPCs) and distributed service architecture.
+
+Grade: 20 / 20
 
 ## Authors
  
